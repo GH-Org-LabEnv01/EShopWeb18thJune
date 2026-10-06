@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: ITLab01
   LOCATION: CanadaCentral 
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 46664395-9450-4953-9584-295530ed7245
+  SUBSCRIPTION-ID: f73a6de6-cc5e-445d-a05f-4a20dc25c0d4
   WEBAPP-NAME: myfirstwebapplab01
 
 jobs:
