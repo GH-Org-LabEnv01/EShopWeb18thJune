@@ -5,7 +5,7 @@ on: workflow_dispatch
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: MyFirstRG
+  RESOURCE-GROUP: ITLab01
   LOCATION: CanadaCentral 
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 46664395-9450-4953-9584-295530ed7245
